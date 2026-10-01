@@ -1,0 +1,246 @@
+{
+  "cluster_id": "PLASMA CELL",
+  "predicted_cell_type": "PLASMA CELL",
+  "confidence_score": 0.892,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "IGHG1",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 10.23,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGHG3",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 10.051,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "JCHAIN",
+      "aliases": [
+        "IGCJ",
+        "IGJ",
+        "JCH"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.698,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DERL3",
+      "aliases": [
+        "C22orf14",
+        "IZP6",
+        "LLN2",
+        "derlin-3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.569,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGHG4",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 8.394,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGLC3",
+      "aliases": [
+        "IGLC"
+      ],
+      "gene_type": "other",
+      "logFC": 8.23,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MZB1",
+      "aliases": [
+        "MEDA-7",
+        "PACAP",
+        "pERp1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.495,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FKBP11",
+      "aliases": [
+        "FKBP19"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.484,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ITM2C",
+      "aliases": [
+        "BRI3",
+        "BRICD2C",
+        "E25",
+        "E25C",
+        "ITM3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.03,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGLC2",
+      "aliases": [
+        "IGLC"
+      ],
+      "gene_type": "other",
+      "logFC": 8.498,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "PLASMA CELL",
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 6,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGKC",
+      "aliases": [
+        "HCAK1",
+        "IGKCD",
+        "Km"
+      ],
+      "gene_type": "other",
+      "logFC": 8.036,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "PLASMA CELL",
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 8,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SEC11C",
+      "aliases": [
+        "SEC11L3",
+        "SPC21",
+        "SPCS4C"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.831,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SPCS3",
+      "aliases": [
+        "PRO3567",
+        "SPC22",
+        "SPC22/23",
+        "SPC23",
+        "SPC3",
+        "YLR066W"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.557,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD79A",
+      "aliases": [
+        "IGA",
+        "IGAlpha",
+        "MB-1",
+        "MB1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.083,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "B LYMPHOCYTE",
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HERPUD1",
+      "aliases": [
+        "HERP",
+        "HERPUD1-IT1",
+        "Mif1",
+        "SUP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.448,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "B LYMPHOCYTE",
+      "score": 0.105
+    },
+    {
+      "cell_type": "T LYMPHOCYTE",
+      "score": 0.039
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "cluster_id": "CANCER ASSOCIATED FIBROBLAST",
+  "predicted_cell_type": "CANCER ASSOCIATED FIBROBLAST",
+  "confidence_score": 0.965,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "DCN",
+      "aliases": [
+        "CSCD",
+        "DSPG2",
+        "PG40",
+        "PGII",
+        "PGS2",
+        "SLRR1B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.805,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LUM",
+      "aliases": [
+        "LDC",
+        "SLRR2D"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.675,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COL1A2",
+      "aliases": [
+        "EDSARTH2",
+        "EDSCV",
+        "OI4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.118,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ACTA2",
+      "aliases": [
+        "ACTSA",
+        "SMDYS"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.57,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TAGLN",
+      "aliases": [
+        "SM22",
+        "SM22-alpha",
+        "SMCC",
+        "TAGLN1",
+        "TGLN",
+        "WS3-10"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.563,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "THY1",
+      "aliases": [
+        "CD90",
+        "CDw90"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.836,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "BGN",
+      "aliases": [
+        "DSPG1",
+        "MRLS",
+        "PG-S1",
+        "PGI",
+        "SEMDX",
+        "SLRR1A"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.729,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AEBP1",
+      "aliases": [
+        "ACLP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.682,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COL1A1",
+      "aliases": [
+        "CAFYD",
+        "EDSARTH1",
+        "EDSC",
+        "OI1",
+        "OI2",
+        "OI3",
+        "OI4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.56,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RARRES2",
+      "aliases": [
+        "HP10433",
+        "TIG2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.2,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MYL9",
+      "aliases": [
+        "LC20",
+        "MLC-2C",
+        "MLC2",
+        "MMIHS4",
+        "MRLC1",
+        "MYRL2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.801,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SPARCL1",
+      "aliases": [
+        "MAST 9",
+        "MAST9",
+        "PIG33",
+        "SC1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.571,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COL3A1",
+      "aliases": [
+        "EDS4A",
+        "EDSVASC",
+        "PMGEDSV"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.496,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CALD1",
+      "aliases": [
+        "CDM",
+        "H-CAD",
+        "HCAD",
+        "L-CAD",
+        "LCAD",
+        "NAG22",
+        "h-CD"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.38,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COL6A2",
+      "aliases": [
+        "BTHLM1",
+        "BTHLM1B",
+        "PP3610",
+        "UCMD1",
+        "UCMD1B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.359,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CANCER ASSOCIATED FIBROBLAST"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "ENDOTHELIAL CELL",
+      "score": 0.079
+    },
+    {
+      "cell_type": "BREAST CARCINOMA",
+      "score": 0.026
+    },
+    {
+      "cell_type": "T LYMPHOCYTE",
+      "score": 0.011
+    }
+  ]
+}

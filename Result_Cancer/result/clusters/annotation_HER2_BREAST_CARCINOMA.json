@@ -1,0 +1,241 @@
+{
+  "cluster_id": "HER2 BREAST CARCINOMA",
+  "predicted_cell_type": "HER2 BREAST CARCINOMA",
+  "confidence_score": 0.481,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "DKK1",
+      "aliases": [
+        "DKK-1",
+        "SK"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.781,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GRB7",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 4.905,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KRT81",
+      "aliases": [
+        "HB1",
+        "Hb-1",
+        "K81",
+        "KRTHB1",
+        "MLN137",
+        "MNLIX2",
+        "ghHkb1",
+        "hHAKB2-1",
+        "hHb1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.889,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LMTK3",
+      "aliases": [
+        "AATYK3",
+        "LMR3",
+        "PPP1R101",
+        "TYKLM3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.593,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MUCL1",
+      "aliases": [
+        "SBEM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.347,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ERBB2",
+      "aliases": [
+        "CD340",
+        "HER-2",
+        "HER-2/neu",
+        "HER2",
+        "MLN 19",
+        "MLN-19",
+        "NEU",
+        "NGL",
+        "TKR1",
+        "VSCN2",
+        "c-ERB-2",
+        "c-ERB2",
+        "p185(erbB2)"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.097,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLIC3",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 3.884,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GPCPD1",
+      "aliases": [
+        "EDI3",
+        "GDE5",
+        "GDPD6",
+        "PREI4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.855,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SQLE",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 3.698,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "S100P",
+      "aliases": [
+        "MIG9"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.634,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "HER2 BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SCD",
+      "aliases": [
+        "FADS5",
+        "MSTP008",
+        "SCD1",
+        "SCDOS",
+        "hSCD1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.543,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SERHL2",
+      "aliases": [
+        "dJ222E13.1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.534,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DHCR24",
+      "aliases": [
+        "DCE",
+        "Nbla03646",
+        "SELADIN1",
+        "seladin-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.484,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PDLIM5",
+      "aliases": [
+        "ENH",
+        "ENH1",
+        "L9",
+        "LIM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.432,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PITX1",
+      "aliases": [
+        "BFT",
+        "CCF",
+        "POTX",
+        "PTX1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.381,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "BREAST EPITHELIUM",
+      "score": 0.023
+    }
+  ]
+}

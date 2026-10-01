@@ -1,0 +1,270 @@
+{
+  "cluster_id": "LUMINAL BREAST CARCINOMA",
+  "predicted_cell_type": "LUMINAL BREAST CARCINOMA",
+  "confidence_score": 0.405,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "NPY1R",
+      "aliases": [
+        "NPY1-R",
+        "NPYR"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.515,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FGFR1",
+      "aliases": [
+        "BFGFR",
+        "CD331",
+        "CEK",
+        "ECCL",
+        "FGFBR",
+        "FGFR-1",
+        "FLG",
+        "FLT-2",
+        "FLT2",
+        "HBGFR",
+        "HH2",
+        "HRTFDS",
+        "KAL2",
+        "N-SAM",
+        "OGD",
+        "bFGF-R-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.729,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "EEF1A2",
+      "aliases": [
+        "DEE33",
+        "EEF1AL",
+        "EF-1-alpha-2",
+        "EF1A",
+        "EIEE33",
+        "HS1",
+        "MRD38",
+        "STN",
+        "STNL"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.376,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SCGB2A2",
+      "aliases": [
+        "MGB1",
+        "PSBP1",
+        "UGB2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.176,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PMAIP1",
+      "aliases": [
+        "APR",
+        "NOXA"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.093,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ESR1",
+      "aliases": [
+        "ER",
+        "ESR",
+        "ESRA",
+        "ESTRR",
+        "Era",
+        "NR3A1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.72,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SRARP",
+      "aliases": [
+        "C1orf64",
+        "ERRF"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.576,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PLPP5",
+      "aliases": [
+        "DPPL1",
+        "HTPAP",
+        "PPAPDC1B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.351,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CDH1",
+      "aliases": [
+        "Arc-1",
+        "BCDS1",
+        "CD324",
+        "CDHE",
+        "ECAD",
+        "LCAM",
+        "UVO"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.149,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TFF3",
+      "aliases": [
+        "ITF",
+        "P1B",
+        "TFI"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.109,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PRSS23",
+      "aliases": [
+        "SIG13",
+        "SPUVE",
+        "ZSIG13"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.106,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AGR3",
+      "aliases": [
+        "AG-3",
+        "AG3",
+        "BCMP11",
+        "HAG3",
+        "PDIA18",
+        "hAG-3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.099,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CAMK2N1",
+      "aliases": [
+        "PRO1489"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.072,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLDN3",
+      "aliases": [
+        "C7orf1",
+        "CPE-R2",
+        "CPETR2",
+        "HRVP1",
+        "RVP1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.069,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TRPS1",
+      "aliases": [
+        "GC79",
+        "LGCR"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.005,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "LUMINAL BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "BREAST CARCINOMA",
+      "score": 0.111
+    },
+    {
+      "cell_type": "BREAST EPITHELIUM",
+      "score": 0.068
+    }
+  ]
+}

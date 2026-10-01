@@ -1,0 +1,229 @@
+{
+  "cluster_id": "NAIVE CD4 T",
+  "predicted_cell_type": "NK",
+  "confidence_score": 0.199,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "F13A1",
+      "aliases": [
+        "F13A"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.752,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KIAA0556",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 2.939,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "C17ORF58",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 7.539,
+      "specificity_score": 0.333,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MYO6",
+      "aliases": [
+        "DFNA22",
+        "DFNB37"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.824,
+      "specificity_score": 0.333,
+      "cell_type_associations": [
+        "NK"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AFDN",
+      "aliases": [
+        "AF6",
+        "MLL-AF6",
+        "MLLT4",
+        "l-afadin"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.395,
+      "specificity_score": 0.333,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CCND1",
+      "aliases": [
+        "BCL1",
+        "D11S287E",
+        "PRAD1",
+        "U21B31"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.208,
+      "specificity_score": 0.333,
+      "cell_type_associations": [
+        "NAIVE CD4 T",
+        "CD8 T"
+      ],
+      "citation_count_marker": 13,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SDSL",
+      "aliases": [
+        "SDH 2",
+        "SDHL",
+        "SDS-RS1",
+        "TDH",
+        "cSDH"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.176,
+      "specificity_score": 0.333,
+      "cell_type_associations": [],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CTDSPL",
+      "aliases": [
+        "C3orf8",
+        "HYA22",
+        "PSR1",
+        "RBSP3",
+        "SCP3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 2.03,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PRRG4",
+      "aliases": [
+        "PRGP4",
+        "TMG4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.69,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TIMELESS",
+      "aliases": [
+        "FASPS4",
+        "TIM",
+        "TIM1",
+        "hTIM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.68,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DBN1",
+      "aliases": [
+        "D0S117E"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.469,
+      "specificity_score": 0.333,
+      "cell_type_associations": [
+        "B"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KIAA0513",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 1.676,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "VPS52",
+      "aliases": [
+        "ARE1",
+        "SAC2",
+        "SACM2L",
+        "dJ1033B10.5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.883,
+      "specificity_score": 0.333,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CERCAM",
+      "aliases": [
+        "CEECAM1",
+        "GLT25D3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.246,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AFMID",
+      "aliases": [
+        "FKF",
+        "KF",
+        "KFA"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.646,
+      "specificity_score": 0.333,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "DC",
+      "score": 0.105
+    },
+    {
+      "cell_type": "NAIVE CD4 T",
+      "score": 0.086
+    },
+    {
+      "cell_type": "CD8 T",
+      "score": 0.077
+    }
+  ]
+}

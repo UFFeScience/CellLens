@@ -1,0 +1,245 @@
+{
+  "cluster_id": "BREAST CARCINOMA",
+  "predicted_cell_type": "BREAST CARCINOMA",
+  "confidence_score": 0.676,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "FST",
+      "aliases": [
+        "FS"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.949,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FDCSP",
+      "aliases": [
+        "C4orf7",
+        "FDC-SP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.604,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MMP7",
+      "aliases": [
+        "MMP-7",
+        "MPSL1",
+        "PUMP-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.179,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CPS1",
+      "aliases": [
+        "CPS1D",
+        "CPSASE1",
+        "GATD6",
+        "PHN"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.238,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FGF12",
+      "aliases": [
+        "DEE47",
+        "EIEE47",
+        "FGF12B",
+        "FHF1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.07,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SLITRK6",
+      "aliases": [
+        "DFNMYP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.608,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LMO3",
+      "aliases": [
+        "RBTN3",
+        "RBTNL2",
+        "RHOM3",
+        "Rhom-3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.32,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "BMPR1B",
+      "aliases": [
+        "ALK-6",
+        "ALK6",
+        "AMD3",
+        "AMDD",
+        "BDA1D",
+        "BDA2",
+        "CDw293"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.241,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DSCAM-AS1",
+      "aliases": [
+        "M41"
+      ],
+      "gene_type": "ncRNA",
+      "logFC": 5.972,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PHGR1",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 5.667,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GPRIN3",
+      "aliases": [
+        "GRIN3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.602,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MXRA8",
+      "aliases": [
+        "ASP3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.566,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FAT1",
+      "aliases": [
+        "CDHF7",
+        "CDHR8",
+        "FAT",
+        "ME5",
+        "hFat1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.545,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LTF",
+      "aliases": [
+        "GIG12",
+        "HEL110",
+        "HLF2",
+        "LF"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.504,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST CARCINOMA"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ATP13A3",
+      "aliases": [
+        "AFURS1",
+        "PPH5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.424,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "BREAST EPITHELIUM",
+      "score": 0.015
+    },
+    {
+      "cell_type": "LUMINAL BREAST CARCINOMA",
+      "score": 0.013
+    },
+    {
+      "cell_type": "MYOEPITHELIAL CELL",
+      "score": 0.011
+    }
+  ]
+}

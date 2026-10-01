@@ -1,0 +1,279 @@
+{
+  "cluster_id": "T LYMPHOCYTE",
+  "predicted_cell_type": "T LYMPHOCYTE",
+  "confidence_score": 0.921,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "ETS1",
+      "aliases": [
+        "ETS-1",
+        "EWSR2",
+        "c-ets-1",
+        "p54"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.154,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IKZF3",
+      "aliases": [
+        "AIO",
+        "AIOLOS",
+        "IMD84",
+        "ZNFN1A3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.771,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "OASL",
+      "aliases": [
+        "OASL1",
+        "OASLd",
+        "TRIP-14",
+        "TRIP14",
+        "p59 OASL",
+        "p59-OASL",
+        "p59OASL"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.701,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD3G",
+      "aliases": [
+        "CD3-GAMMA",
+        "CD3GAMMA",
+        "IMD17",
+        "T3G"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.538,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IKZF1",
+      "aliases": [
+        "CVID13",
+        "Hs.54452",
+        "IK1",
+        "IKAROS",
+        "LYF1",
+        "LyF-1",
+        "PPP1R92",
+        "PRO0758",
+        "ZNFN1A1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.529,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IFI44L",
+      "aliases": [
+        "C1orf29",
+        "GS3686",
+        "TLDC5B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.375,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SAMD9L",
+      "aliases": [
+        "ATXPC",
+        "C7DELq",
+        "C7orf6",
+        "DEL7q",
+        "DRIF2",
+        "M7MLS1",
+        "MLSM7",
+        "SCA49",
+        "UEF1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.27,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "APBB1IP",
+      "aliases": [
+        "INAG1",
+        "PREL1",
+        "RARP1",
+        "RIAM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.244,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLEC2D",
+      "aliases": [
+        "CLAX",
+        "LLT1",
+        "OCIL"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.204,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "XAF1",
+      "aliases": [
+        "BIRC4BP",
+        "HSXIAPAF1",
+        "XIAPAF1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.189,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SAMD9",
+      "aliases": [
+        "C7orf5",
+        "DRIF1",
+        "M7MLS2",
+        "MIRAGE",
+        "NFTC",
+        "OEF1",
+        "OEF2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.116,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ARL4C",
+      "aliases": [
+        "ARL7",
+        "LAK"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.086,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RESF1",
+      "aliases": [
+        "C12orf35",
+        "GET",
+        "KIAA1551",
+        "UTA2-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.045,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MBP",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 4.019,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "EMB",
+      "aliases": [
+        "GP70"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.012,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "CYTOTOXIC T LYMPHOCYTE",
+      "score": 0.155
+    },
+    {
+      "cell_type": "B LYMPHOCYTE",
+      "score": 0.04
+    },
+    {
+      "cell_type": "PLASMA CELL",
+      "score": 0.013
+    }
+  ]
+}

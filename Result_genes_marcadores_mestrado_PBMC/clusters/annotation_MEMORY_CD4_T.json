@@ -1,0 +1,258 @@
+{
+  "cluster_id": "MEMORY CD4 T",
+  "predicted_cell_type": "MEMORY CD4 T",
+  "confidence_score": 0.331,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "LINC01004",
+      "aliases": [],
+      "gene_type": "ncRNA",
+      "logFC": 7.321,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GZMB",
+      "aliases": [
+        "C11",
+        "CCPI",
+        "CGL-1",
+        "CGL1",
+        "CSP-B",
+        "CSPB",
+        "CTLA1",
+        "CTSGL1",
+        "HLP",
+        "SECT"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.295,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MEMORY CD4 T"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NOP2",
+      "aliases": [
+        "NOL1",
+        "NOP120",
+        "NSUN1",
+        "p120"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.725,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MEMORY CD4 T"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD300E",
+      "aliases": [
+        "CD300LE",
+        "CLM-2",
+        "CLM2",
+        "CMRF35-A5",
+        "IREM-2",
+        "IREM2",
+        "PIgR-2",
+        "PIgR2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.022,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GTF2H4",
+      "aliases": [
+        "P52",
+        "TFB2",
+        "TFIIH",
+        "XPJ"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.896,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "BTK",
+      "aliases": [
+        "AGMX1",
+        "AT",
+        "ATK",
+        "BPK",
+        "IGHD3",
+        "IMD1",
+        "PSCTK1",
+        "XLA"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.661,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MEMORY CD4 T"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HMGCS1",
+      "aliases": [
+        "CMYO28",
+        "HMGCS"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.517,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CEP104",
+      "aliases": [
+        "CFAP256",
+        "GlyBP",
+        "JBTS25",
+        "KIAA0562",
+        "MRT77",
+        "ROC22"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.052,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FABP5",
+      "aliases": [
+        "E-FABP",
+        "EFABP",
+        "KFABP",
+        "PA-FABP",
+        "PAFABP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.029,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MEMORY CD4 T"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PTAFR",
+      "aliases": [
+        "PAFR"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.744,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TBC1D10B",
+      "aliases": [
+        "EPI64B",
+        "FP2461"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.622,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SAV1",
+      "aliases": [
+        "SAV",
+        "WW45",
+        "WWP4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.562,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PLEKHG2",
+      "aliases": [
+        "ARHGEF42",
+        "CLG",
+        "CTB-60E11.4",
+        "LDAMD"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.774,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SLAIN1",
+      "aliases": [
+        "C13orf32"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.179,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SIGLEC9",
+      "aliases": [
+        "CD329",
+        "CDw329",
+        "FOAP-9",
+        "OBBP-LIKE",
+        "siglec-9"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.174,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "DC",
+      "score": 0.093
+    },
+    {
+      "cell_type": "NK",
+      "score": 0.065
+    },
+    {
+      "cell_type": "CD8 T",
+      "score": 0.052
+    }
+  ]
+}

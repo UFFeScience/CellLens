@@ -1,0 +1,253 @@
+{
+  "cluster_id": "DC",
+  "predicted_cell_type": "DC",
+  "confidence_score": 0.192,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "HSPA6",
+      "aliases": [
+        "HSP70B'"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 13.034,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "POLH",
+      "aliases": [
+        "RAD30",
+        "RAD30A",
+        "XP-V",
+        "XPV"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 12.573,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HAUS5",
+      "aliases": [
+        "KIAA0841",
+        "dgt5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 11.838,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KRT18",
+      "aliases": [
+        "CK-18",
+        "CYK18",
+        "K18"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 11.21,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "DC"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HSDL1",
+      "aliases": [
+        "SDR12C3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.898,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MGST1",
+      "aliases": [
+        "GST12",
+        "MGST",
+        "MGST-I",
+        "PMAN"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.843,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CKAP2",
+      "aliases": [
+        "LB1",
+        "TMAP",
+        "se20-10"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.276,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "EEF2KMT",
+      "aliases": [
+        "EFM3",
+        "FAM86A",
+        "SB153",
+        "eEF2-KMT"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.201,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PGM3",
+      "aliases": [
+        "AGM1",
+        "IMD23",
+        "PAGM",
+        "PGM 3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.173,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DESI2",
+      "aliases": [
+        "C1orf121",
+        "CGI-146",
+        "DESI",
+        "DESI1",
+        "DeSI-2",
+        "FAM152A",
+        "PNAS-4",
+        "PPPDE1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.52,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "EVI5",
+      "aliases": [
+        "EVI-5",
+        "NB4S"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.518,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KAT2A",
+      "aliases": [
+        "GCN5",
+        "GCN5L2",
+        "PCAF-b",
+        "hGCN5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.381,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MED12",
+      "aliases": [
+        "ARC240",
+        "CAGH45",
+        "FGS1",
+        "HDKR",
+        "HOPA",
+        "Kto",
+        "MED12S",
+        "OHDOX",
+        "OKS",
+        "OPA1",
+        "TNRC11",
+        "TRAP230"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.343,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PARP6",
+      "aliases": [
+        "ARTD17",
+        "PARP-6-B1",
+        "PARP-6-C",
+        "pART17"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.193,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SLC39A8",
+      "aliases": [
+        "BIGM103",
+        "CDG2N",
+        "LZT-Hs6",
+        "PP3105",
+        "ZIP8"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.003,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "DC"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "NK",
+      "score": 0.088
+    },
+    {
+      "cell_type": "PLATELET",
+      "score": 0.062
+    },
+    {
+      "cell_type": "CD8 T",
+      "score": 0.035
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "cluster_id": "ENDOTHELIAL CELL",
+  "predicted_cell_type": "ENDOTHELIAL CELL",
+  "confidence_score": 0.94,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "EMCN",
+      "aliases": [
+        "EMCN2",
+        "MUC14"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.856,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLDN5",
+      "aliases": [
+        "AWAL",
+        "BEC1",
+        "CPETRL1",
+        "TMDVCF",
+        "TMVCF"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.627,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLEC14A",
+      "aliases": [
+        "C14orf27",
+        "CEG1",
+        "EGFR-5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.582,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ADGRL4",
+      "aliases": [
+        "ELTD1",
+        "ETL",
+        "KPG_003"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.544,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PTPRB",
+      "aliases": [
+        "HPTP-BETA",
+        "HPTPB",
+        "PTPB",
+        "R-PTP-BETA",
+        "VEPTP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.643,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LDB2",
+      "aliases": [
+        "CLIM1",
+        "LDB-2",
+        "LDB1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.493,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SOX18",
+      "aliases": [
+        "HLTRS",
+        "HLTS"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.165,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GNG11",
+      "aliases": [
+        "GNGT11",
+        "HG3H1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.142,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ESAM",
+      "aliases": [
+        "NEDIHSS",
+        "W117m"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.943,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HSPG2",
+      "aliases": [
+        "HSPG",
+        "PLC",
+        "PRCAN",
+        "SJA",
+        "SJS",
+        "SJS1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.823,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RAMP3",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 5.886,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COL4A1",
+      "aliases": [
+        "BSVD",
+        "BSVD1",
+        "COL4A1s",
+        "PADMAL",
+        "RATOR"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.797,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ENG",
+      "aliases": [
+        "END",
+        "HHT1",
+        "ORW1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.631,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RAMP2",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 5.578,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "EGFL7",
+      "aliases": [
+        "NEU1",
+        "VE-STATIN",
+        "ZNEU1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.504,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "ENDOTHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "CANCER ASSOCIATED FIBROBLAST",
+      "score": 0.048
+    },
+    {
+      "cell_type": "BREAST CARCINOMA",
+      "score": 0.006
+    }
+  ]
+}

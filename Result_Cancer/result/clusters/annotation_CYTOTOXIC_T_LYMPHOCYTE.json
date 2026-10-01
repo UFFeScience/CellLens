@@ -1,0 +1,280 @@
+{
+  "cluster_id": "CYTOTOXIC T LYMPHOCYTE",
+  "predicted_cell_type": "CYTOTOXIC T LYMPHOCYTE",
+  "confidence_score": 0.838,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "CST7",
+      "aliases": [
+        "CMAP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.481,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NKG7",
+      "aliases": [
+        "GIG1",
+        "GMP-17",
+        "p15-TIA-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.43,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TRBC1",
+      "aliases": [
+        "BV05S1J2.2",
+        "TCRB",
+        "TCRBC1"
+      ],
+      "gene_type": "other",
+      "logFC": 5.121,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CCL4",
+      "aliases": [
+        "ACT2",
+        "AT744.1",
+        "G-26",
+        "HC21",
+        "LAG-1",
+        "LAG1",
+        "MIP-1-beta",
+        "MIP1B",
+        "MIP1B1",
+        "SCYA2",
+        "SCYA4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.709,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RAC2",
+      "aliases": [
+        "EN-7",
+        "Gx",
+        "HSPC022",
+        "IMD73A",
+        "IMD73B",
+        "IMD73C",
+        "p21-Rac2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.412,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GIMAP7",
+      "aliases": [
+        "IAN7",
+        "hIAN7"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.181,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GZMA",
+      "aliases": [
+        "CTLA3",
+        "HFSP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.486,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE",
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 6,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KLRB1",
+      "aliases": [
+        "CD161",
+        "CLEC5B",
+        "NKR",
+        "NKR-P1",
+        "NKR-P1A",
+        "NKRP1A",
+        "hNKR-P1A"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.403,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE",
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CCL5",
+      "aliases": [
+        "D17S136E",
+        "RANTES",
+        "SCYA5",
+        "SIS-delta",
+        "SISd",
+        "TCP228",
+        "eoCP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.28,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "CYTOTOXIC T LYMPHOCYTE",
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GZMK",
+      "aliases": [
+        "GrK",
+        "TRYP2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.181,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE",
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 8,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PLAAT4",
+      "aliases": [
+        "HRASLS4",
+        "HRSL4",
+        "PLA1/2-3",
+        "PLAAT-4",
+        "RARRES3",
+        "RIG1",
+        "TIG3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 2.52,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD3E",
+      "aliases": [
+        "CD3epsilon",
+        "IMD18",
+        "T3E",
+        "TCRE"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.933,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE",
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TRBC2",
+      "aliases": [
+        "TCRBC2"
+      ],
+      "gene_type": "other",
+      "logFC": 4.923,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TRAC",
+      "aliases": [
+        "IMD7",
+        "TCRA",
+        "TRCA"
+      ],
+      "gene_type": "other",
+      "logFC": 4.763,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE",
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 7,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD2",
+      "aliases": [
+        "LFA-2",
+        "SRBC",
+        "T11"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.763,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE",
+        "CYTOTOXIC T LYMPHOCYTE"
+      ],
+      "citation_count_marker": 8,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "T LYMPHOCYTE",
+      "score": 0.581
+    },
+    {
+      "cell_type": "B LYMPHOCYTE",
+      "score": 0.053
+    }
+  ]
+}

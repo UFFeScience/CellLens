@@ -1,0 +1,258 @@
+{
+  "cluster_id": "B LYMPHOCYTE",
+  "predicted_cell_type": "B LYMPHOCYTE",
+  "confidence_score": 0.904,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "TCL1A",
+      "aliases": [
+        "TCL1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 11.276,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "VPREB3",
+      "aliases": [
+        "8HS20",
+        "N27C7-2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.755,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MS4A1",
+      "aliases": [
+        "B1",
+        "Bp35",
+        "CD20",
+        "CVID5",
+        "FMC7",
+        "LEU-16",
+        "S7"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.069,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGHM",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 8.545,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD79B",
+      "aliases": [
+        "AGM6",
+        "B29",
+        "IGB",
+        "Igbeta"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.335,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD37",
+      "aliases": [
+        "GP52-40",
+        "TSPAN26"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.869,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HLA-DMB",
+      "aliases": [
+        "D6S221E",
+        "RING7"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.816,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "BIRC3",
+      "aliases": [
+        "AIP1",
+        "API2",
+        "CIAP2",
+        "HAIP1",
+        "HIAP1",
+        "IAP-1",
+        "MALT2",
+        "MIHC",
+        "RNF49",
+        "c-IAP2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.708,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD79A",
+      "aliases": [
+        "IGA",
+        "IGAlpha",
+        "MB-1",
+        "MB1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.212,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "B LYMPHOCYTE",
+        "PLASMA CELL"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LIMD2",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 3.971,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LAPTM5",
+      "aliases": [
+        "CLAST6"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.769,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGKC",
+      "aliases": [
+        "HCAK1",
+        "IGKCD",
+        "Km"
+      ],
+      "gene_type": "other",
+      "logFC": 6.356,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "PLASMA CELL",
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 8,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IGLC2",
+      "aliases": [
+        "IGLC"
+      ],
+      "gene_type": "other",
+      "logFC": 6.057,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "PLASMA CELL",
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 6,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KLF2",
+      "aliases": [
+        "LKLF"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 2.581,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LTB",
+      "aliases": [
+        "TNFC",
+        "TNFSF3",
+        "TNLG1C",
+        "p33"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.844,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "T LYMPHOCYTE",
+        "B LYMPHOCYTE"
+      ],
+      "citation_count_marker": 9,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "MACROPHAGE",
+      "score": 0.165
+    },
+    {
+      "cell_type": "PLASMA CELL",
+      "score": 0.101
+    },
+    {
+      "cell_type": "T LYMPHOCYTE",
+      "score": 0.08
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "cluster_id": "MONOCYTE",
+  "predicted_cell_type": "MONOCYTE",
+  "confidence_score": 1.0,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "CD300E",
+      "aliases": [
+        "CD300LE",
+        "CLM-2",
+        "CLM2",
+        "CMRF35-A5",
+        "IREM-2",
+        "IREM2",
+        "PIgR-2",
+        "PIgR2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.73,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CLEC4E",
+      "aliases": [
+        "CLECSF9",
+        "MINCLE"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.302,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IL1RN",
+      "aliases": [
+        "CRMO2",
+        "DIRA",
+        "ICIL-1RA",
+        "IL-1RN",
+        "IL-1ra",
+        "IL-1ra3",
+        "IL1F3",
+        "IL1RA",
+        "IRAP",
+        "MVCD4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.845,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IL4I1",
+      "aliases": [
+        "FIG1",
+        "LAAO",
+        "LAO",
+        "hIL4I1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.359,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LILRB2",
+      "aliases": [
+        "CD85D",
+        "ILT-4",
+        "ILT4",
+        "LIR-2",
+        "LIR2",
+        "MIR-10",
+        "MIR10"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.355,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SLC11A1",
+      "aliases": [
+        "LSH",
+        "NRAMP",
+        "NRAMP1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.272,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RSAD2",
+      "aliases": [
+        "SAND",
+        "cig33",
+        "cig5",
+        "vig1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.869,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PILRA",
+      "aliases": [
+        "FDF03"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.776,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LILRB4",
+      "aliases": [
+        "B4",
+        "CD85K",
+        "ILT-3",
+        "ILT3",
+        "LIR-5",
+        "LIR5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.72,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CCR1",
+      "aliases": [
+        "CD191",
+        "CKR-1",
+        "CKR1",
+        "CMKBR1",
+        "HM145",
+        "MIP1aR",
+        "SCYAR1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.663,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "C3AR1",
+      "aliases": [
+        "AZ3B",
+        "C3AR",
+        "HNFAG09"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.621,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD86",
+      "aliases": [
+        "B7-2",
+        "B7.2",
+        "B70",
+        "BU63",
+        "CD28LG2",
+        "CD86 v6",
+        "FUN-1",
+        "LAB72"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.577,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IFIT2",
+      "aliases": [
+        "G10P2",
+        "GARG-39",
+        "IFI-54",
+        "IFI-54K",
+        "IFI54",
+        "IFIT-2",
+        "ISG-54",
+        "ISG-54 K",
+        "ISG-54K",
+        "ISG54",
+        "P54",
+        "cig42"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.514,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FCGR2A",
+      "aliases": [
+        "CD32",
+        "CD32A",
+        "CDw32",
+        "FCG2",
+        "FCGR2",
+        "FCGR2A1",
+        "FcGR",
+        "FcgammaRIIa",
+        "IGFR2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.399,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NCF2",
+      "aliases": [
+        "NCF-2",
+        "NOXA2",
+        "P67-PHOX",
+        "P67PHOX"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.348,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "MACROPHAGE",
+      "score": 0.056
+    },
+    {
+      "cell_type": "T LYMPHOCYTE",
+      "score": 0.018
+    }
+  ]
+}

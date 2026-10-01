@@ -1,0 +1,265 @@
+{
+  "cluster_id": "MACROPHAGE",
+  "predicted_cell_type": "MACROPHAGE",
+  "confidence_score": 1.0,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "IGSF6",
+      "aliases": [
+        "DORA"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.277,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MS4A6A",
+      "aliases": [
+        "4SPAN3",
+        "4SPAN3.2",
+        "CD20L3",
+        "CDA01",
+        "MS4A6",
+        "MST090",
+        "MSTP090"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.991,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LYZ",
+      "aliases": [
+        "AMYLD5",
+        "LYZF1",
+        "LZM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.978,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "C1QA",
+      "aliases": [
+        "C1QD1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.857,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SPI1",
+      "aliases": [
+        "AGM10",
+        "OF",
+        "PU.1",
+        "SFPI1",
+        "SPI-1",
+        "SPI-A"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.773,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AIF1",
+      "aliases": [
+        "AIF-1",
+        "IBA1",
+        "IRT-1",
+        "IRT1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.747,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CD68",
+      "aliases": [
+        "GP110",
+        "LAMP4",
+        "SCARD1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.705,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LST1",
+      "aliases": [
+        "B144",
+        "D6S49E",
+        "LST-1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.704,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FCER1G",
+      "aliases": [
+        "FCRG"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.236,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TYROBP",
+      "aliases": [
+        "DAP12",
+        "KARAP",
+        "PLOSL",
+        "PLOSL1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.078,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CTSS",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 4.697,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MS4A7",
+      "aliases": [
+        "4SPAN2",
+        "CD20L4",
+        "CFFM4",
+        "MS4A8"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.676,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CTSB",
+      "aliases": [
+        "APPS",
+        "CPSB",
+        "KWE",
+        "RECEUP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.434,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CTSZ",
+      "aliases": [
+        "CTSX"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 3.233,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MACROPHAGE"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CYBB",
+      "aliases": [
+        "AMCBX2",
+        "CGD",
+        "CGDX",
+        "GP91-1",
+        "GP91-PHOX",
+        "GP91PHOX",
+        "IMD34",
+        "NOX2",
+        "p91-PHOX"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.346,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "MACROPHAGE",
+        "MONOCYTE"
+      ],
+      "citation_count_marker": 7,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "B LYMPHOCYTE",
+      "score": 0.159
+    },
+    {
+      "cell_type": "MONOCYTE",
+      "score": 0.085
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "cluster_id": "BREAST EPITHELIUM",
+  "predicted_cell_type": "BREAST EPITHELIUM",
+  "confidence_score": 0.278,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "CST5",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 11.789,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CARTPT",
+      "aliases": [
+        "CART"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 10.724,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HDC",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 10.363,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "BPIFB2",
+      "aliases": [
+        "BPIL1",
+        "C20orf184",
+        "LPLUNC2",
+        "RYSR",
+        "dJ726C3.2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.537,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CTAG2",
+      "aliases": [
+        "CAMEL",
+        "CT2",
+        "CT6.2",
+        "CT6.2a",
+        "CT6.2b",
+        "ESO2",
+        "LAGE-1",
+        "LAGE2B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.524,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "INHA",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 7.484,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TSPAN8",
+      "aliases": [
+        "CO-029",
+        "TM4SF3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.48,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST EPITHELIUM"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SLC5A8",
+      "aliases": [
+        "AIT",
+        "SMCT",
+        "SMCT1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.91,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "BREAST EPITHELIUM"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NXPH1",
+      "aliases": [
+        "NPH1",
+        "Nbla00697"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.838,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RTBDN",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 6.609,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "HSD17B2",
+      "aliases": [
+        "EDH17B2",
+        "HSD17",
+        "SDR9C2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.053,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LY6K",
+      "aliases": [
+        "CT97",
+        "HSJ001348",
+        "URLC10",
+        "ly-6K"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.731,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MRPS30-DT",
+      "aliases": [
+        "BRCAT107",
+        "BRCAT54",
+        "LINC02224"
+      ],
+      "gene_type": "ncRNA",
+      "logFC": 5.698,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SESN3",
+      "aliases": [
+        "SEST3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.456,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IFT122",
+      "aliases": [
+        "CED",
+        "CED1",
+        "CFAP80",
+        "FAP80",
+        "SPG",
+        "WDR10",
+        "WDR10p",
+        "WDR140"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.185,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "BREAST CARCINOMA",
+      "score": 0.085
+    },
+    {
+      "cell_type": "HER2 BREAST CARCINOMA",
+      "score": 0.018
+    },
+    {
+      "cell_type": "LUMINAL BREAST CARCINOMA",
+      "score": 0.015
+    }
+  ]
+}

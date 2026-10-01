@@ -1,0 +1,226 @@
+{
+  "cluster_id": "CD8 T",
+  "predicted_cell_type": "CD8 T",
+  "confidence_score": 0.404,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "C11ORF49",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 8.411,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TNF",
+      "aliases": [
+        "DIF",
+        "IMD127",
+        "TNF-alpha",
+        "TNFA",
+        "TNFSF2",
+        "TNLG1F"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.813,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CD8 T"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "OLIG1",
+      "aliases": [
+        "BHLHB6",
+        "BHLHE21"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.752,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "MXRA7",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 6.219,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CD8 T"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DMTN",
+      "aliases": [
+        "DMT",
+        "EPB49"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 12.382,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TCAF1",
+      "aliases": [
+        "FAM115A",
+        "GATD9A"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.125,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FUCA2",
+      "aliases": [
+        "dJ20N2.5"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.882,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AC025171.3",
+      "aliases": [],
+      "gene_type": "unknown",
+      "logFC": 5.877,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "IL15",
+      "aliases": [
+        "IL-15"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 11.672,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "CD8 T"
+      ],
+      "citation_count_marker": 10,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DCBLD2",
+      "aliases": [
+        "CLCP1",
+        "ESDN"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 10.474,
+      "specificity_score": 0.5,
+      "cell_type_associations": [
+        "CD8 T"
+      ],
+      "citation_count_marker": 4,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DEGS2",
+      "aliases": [
+        "C14orf66",
+        "DES2",
+        "FADS8"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.168,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "POLD1",
+      "aliases": [
+        "CDC2",
+        "CRCS10",
+        "IMD120",
+        "MDPL",
+        "POLD"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.127,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "CD8 T"
+      ],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ZNF322",
+      "aliases": [
+        "HCG12",
+        "ZNF322A",
+        "ZNF388",
+        "ZNF489"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.112,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KIF13A",
+      "aliases": [
+        "RBKIN",
+        "bA500C11.2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.582,
+      "specificity_score": 0.5,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PKP4",
+      "aliases": [
+        "p0071"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.316,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "NK",
+      "score": 0.067
+    },
+    {
+      "cell_type": "DC",
+      "score": 0.06
+    },
+    {
+      "cell_type": "B",
+      "score": 0.056
+    }
+  ]
+}

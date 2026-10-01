@@ -1,0 +1,225 @@
+{
+  "cluster_id": "FCGR3A+ MONO",
+  "predicted_cell_type": "NK",
+  "confidence_score": 0.09,
+  "ambiguity_flag": true,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "WDR83",
+      "aliases": [
+        "MORG1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 12.399,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PCBP4",
+      "aliases": [
+        "CBP",
+        "LIP4",
+        "MCG10"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 10.355,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PARVB",
+      "aliases": [
+        "CGI-56"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.498,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NACC1",
+      "aliases": [
+        "BEND8",
+        "BTBD14B",
+        "BTBD30",
+        "NAC-1",
+        "NAC1",
+        "NECFM"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 9.287,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "RNF25",
+      "aliases": [
+        "AO7"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.24,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ADCK2",
+      "aliases": [
+        "AARF"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 7.119,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "LINC02432",
+      "aliases": [],
+      "gene_type": "ncRNA",
+      "logFC": 7.04,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ZNF358",
+      "aliases": [
+        "ZFEND"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.939,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "YPEL1",
+      "aliases": [
+        "FKSG3"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.809,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "CEP128",
+      "aliases": [
+        "C14orf145",
+        "C14orf61",
+        "LEDP/132"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.769,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "COPRS",
+      "aliases": [
+        "C17orf79",
+        "COPR5",
+        "HSA272196",
+        "TTP1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.731,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "DGCR8",
+      "aliases": [
+        "C22orf12",
+        "DGCRK6",
+        "Gy1",
+        "pasha"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.641,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SULF2",
+      "aliases": [
+        "HSULF-2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.578,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ST6GALNAC4",
+      "aliases": [
+        "IV",
+        "SIAT3-C",
+        "SIAT3C",
+        "SIAT7-D",
+        "SIAT7D",
+        "ST6GALNACIV",
+        "ST6GalNAc"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.205,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TMED1",
+      "aliases": [
+        "IL1RL1LG",
+        "Il1rl1l",
+        "Tp24",
+        "p24g1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.156,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "DC",
+      "score": 0.074
+    },
+    {
+      "cell_type": "CD8 T",
+      "score": 0.059
+    },
+    {
+      "cell_type": "PLATELET",
+      "score": 0.047
+    }
+  ]
+}

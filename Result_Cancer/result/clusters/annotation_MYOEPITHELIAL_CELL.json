@@ -1,0 +1,228 @@
+{
+  "cluster_id": "MYOEPITHELIAL CELL",
+  "predicted_cell_type": "MYOEPITHELIAL CELL",
+  "confidence_score": 0.318,
+  "ambiguity_flag": false,
+  "state": "Unknown",
+  "supporting_markers": [
+    {
+      "gene_symbol": "MIA",
+      "aliases": [
+        "CD-RAP",
+        "MIA1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.566,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 3,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ROCR",
+      "aliases": [
+        "LINC02095"
+      ],
+      "gene_type": "ncRNA",
+      "logFC": 8.443,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TFF2",
+      "aliases": [
+        "SML1",
+        "SP"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 8.286,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TTYH1",
+      "aliases": [],
+      "gene_type": "protein-coding",
+      "logFC": 8.156,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "SCRG1",
+      "aliases": [
+        "SCRG-1",
+        "lincSCRG1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 6.55,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "TRIM2",
+      "aliases": [
+        "CMT2R",
+        "RNF86"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.835,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MYOEPITHELIAL CELL"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "ID4",
+      "aliases": [
+        "IDB4",
+        "bHLHb27"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.772,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MYOEPITHELIAL CELL"
+      ],
+      "citation_count_marker": 2,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AQP5",
+      "aliases": [
+        "AQP-5",
+        "PPKB"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.665,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MYOEPITHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "AIF1L",
+      "aliases": [
+        "C9orf58",
+        "IBA2"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.612,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "GPM6B",
+      "aliases": [
+        "M6B"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.578,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MYOEPITHELIAL CELL"
+      ],
+      "citation_count_marker": 1,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NOTCH1",
+      "aliases": [
+        "AOS5",
+        "AOVD1",
+        "TAN1",
+        "hN1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.248,
+      "specificity_score": 1.0,
+      "cell_type_associations": [
+        "MYOEPITHELIAL CELL"
+      ],
+      "citation_count_marker": 5,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "FSCN1",
+      "aliases": [
+        "HSN",
+        "SNL",
+        "p55"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.246,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "NDRG2",
+      "aliases": [
+        "SYLD"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.192,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "KCNN4",
+      "aliases": [
+        "DHS2",
+        "IK",
+        "IK1",
+        "IKCA1",
+        "KCA4",
+        "KCa3.1",
+        "SK4",
+        "SKCa4",
+        "hIK1",
+        "hIKCa1",
+        "hKCa4",
+        "hSK4"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 5.035,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    },
+    {
+      "gene_symbol": "PLEKHB1",
+      "aliases": [
+        "KPL1",
+        "PHR1",
+        "PHRET1"
+      ],
+      "gene_type": "protein-coding",
+      "logFC": 4.596,
+      "specificity_score": 1.0,
+      "cell_type_associations": [],
+      "citation_count_marker": 0,
+      "last_cited_year": 2024
+    }
+  ],
+  "alternative_hypotheses": [
+    {
+      "cell_type": "BREAST CARCINOMA",
+      "score": 0.086
+    }
+  ]
+}

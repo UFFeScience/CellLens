@@ -1,0 +1,9 @@
+pandas
+neo4j
+biopython
+google-generativeai
+pydantic
+tenacity
+requests
+streamlit
+google-genai
