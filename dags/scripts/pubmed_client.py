@@ -149,6 +149,7 @@ def fetch_articles_for_batch(batch_id: str, input_dir: str, output_dir: str) -> 
                         """),
                         {"q_hash": query_hash, "q_text": query, "r_json": json.dumps(cache_payload)}
                     )
+                    db_conn.commit()
 
                 if not isinstance(fetched_data, list):
                     fetched_data = [fetched_data] if fetched_data else []

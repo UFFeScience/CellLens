@@ -151,6 +151,7 @@ def process_llm_extraction(raw_file_path: str, output_dir: str, model_version: s
                         """),
                         {"p_hash": prompt_hash, "p_text": prompt, "r_json": json.dumps(llm_data)}
                     )
+                    db_conn.commit()
 
                 # Construção do modelo  com a proveniência
                 _campos_obrigatorios = ("gene", "cell_group", "relation_type", "evidence_snippet")
